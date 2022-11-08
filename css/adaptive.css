@@ -1,0 +1,6 @@
+@media(max-width: 800px){
+  .login_block{
+    width: 85%;
+    margin-left: 7.5%;
+  }
+}
